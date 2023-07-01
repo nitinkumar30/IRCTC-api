@@ -5,7 +5,7 @@ BASE_URL = "https://irctc1.p.rapidapi.com/"
 # HOST_URL = "irctc1.p.rapidapi.com"
 HOST_URL = BASE_URL.replace('https://', '').replace('/', '')
 API_DOCUMENTATION_URL = "https://rapidapi.com/IRCTCAPI/api/irctc1/"
-API_KEY = "d80191008amsh24d66a7bd4dba75p1522dcjsn7c81675e726a"
+API_KEY = "YOUR_API_KEY"
 
 headers = {
     "X-RapidAPI-Key": API_KEY,
