@@ -23,7 +23,7 @@
 > install requests library  
 >       ```pip install requests```  
 > Enter the API token in 8th line of code  
-> Run the file [bundle.py](bundle.py)    
+> Run the file [main.py](main.py)    
 > Currently, it's my initial release but I'm working on it & will improve it  
 
 # Future scope
